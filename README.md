@@ -1,18 +1,18 @@
 # 📊 Sales Analysis Report — Excel Dashboard
 
-An interactive Excel dashboard built to analyze sales performance across regions, categories, and sub-categories using **Conditional Formatting**, **Pivot Tables**, and **Slicers**.
+An interactive Excel dashboard built to analyze sales performance across regions, categories, and sub-categories using **Conditional Formatting**, **Tables**, **Matrix** and **Slicers**.
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-![Sales Analysis Report](./Sales_Analysis_Report.png)
+![Sales Analysis Report](./Screenshot.png)
 
 ---
 
 ## 📌 Overview
 
-This dashboard provides a comprehensive view of sales data from **2023 to 2026**, enabling quick insights into revenue, profitability, and shipping costs across multiple regions — East, North, South, and West.
+This dashboard provides a comprehensive view of sales data from **2023 to 2026**, enabling quick insights into revenue, profitability, and shipping costs across multiple regions — East, North, South, and West.categories, and sub-categories using **Conditional Formatting**, **Tables**, **Matrix** and **Slicers**.
 
 ---
 
@@ -96,15 +96,11 @@ Cross-tabulation of Category × Sub-Category across 4 regions:
 
 ---
 
-## 🙋 Author
+## 🙋 About me
 
-**[Your Name]**
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- 📧 your.email@example.com
+A Vinitha Sree
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/vinithasree/)
+- 📧 vinithasree04@gmail.com
 
----
 
-## 📃 License
 
-This project is for educational and portfolio purposes.  
-Feel free to use and adapt with attribution. ⭐ Star this repo if you found it useful!
