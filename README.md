@@ -96,9 +96,10 @@ Cross-tabulation of Category × Sub-Category across 4 regions:
 
 ---
 
-## 🙋 About me
+## 👩‍💻 About Me
+A Vinitha Sree — Aspiring Data Analyst passionate about turning data into meaningful insights using Excel, Power BI, and SQL.
 
-A Vinitha Sree
+
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/vinithasree/)
 - 📧 vinithasree04@gmail.com
 
